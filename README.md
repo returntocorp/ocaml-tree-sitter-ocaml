@@ -1,5 +1,5 @@
-# ocaml-tree-sitter-&lt;LANG&gt;
+# ocaml-tree-sitter-ocaml
 
-Generated &lt;LANG&gt; parser.
+Generated OCaml parser.
 
 [Instructions for updating this repo](https://github.com/returntocorp/ocaml-tree-sitter-languages/blob/master/doc/release.md)
